@@ -7,7 +7,7 @@ Créez une fonction qui permet de mettre à jour le texte d'un paragraphe avec l
         3. Le deuxième et dernier paramètre contiendra le texte à mettre en place
         4. La fonction devra aller chercher le paragraphe avec la fonction native qui va bien ( getElem... )
         5. La fonction devra écraser le texte existant pour y placer le texte passé en paramètre !
-        
+
         6. Pour chaque paragraphe existant dans le fichier HTML, invoquez cette fonction, avec un texte différent !
 
 ## Théorie
